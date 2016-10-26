@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>list</key>
+	<array>
+		<string>元/斤</string>
+		<string>元/公斤(千克)</string>
+		<string>元/吨</string>
+		<string>元/箱</string>
+		<string>元/件</string>
+		<string>元/包</string>
+		<string>元/袋</string>
+		<string>元/筐</string>
+		<string>元/个</string>
+		<string>元/克</string>
+	</array>
+</dict>
+</plist>
